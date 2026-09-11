@@ -1,145 +1,86 @@
-<!-- Source: Shivam Kanade Resume :contentReference[oaicite:0]{index=0} -->
-
-# Shivam Kanade
+# 👋 Hi, I'm Shivam Kanade
 
 ### BI Engineer | Qlik Sense | Power BI | Microsoft Fabric
 
-Pune, India
+📍 Pune, India
 
-## 👨‍💻 About Me
+---
 
-BI Engineer with 1.2 years of experience across **Qlik Sense, Microsoft Fabric, and Power BI**, specializing in dashboard development, data visualization, SQL, ETL, data modelling, and reporting.
+## 🚀 About Me
 
-Experienced in **Qlik scripting, Set Analysis, Power BI report development, data transformation, semantic modelling, data warehousing, fact and dimension modelling, joins, aggregations, and slowly changing dimensions (SCD)**.
+BI Engineer with **1.2 years of experience** building and supporting **BI solutions, dashboards, data models, ETL processes, and reporting** using Qlik Sense, Power BI, Microsoft Fabric, and SQL.
 
-## 🛠️ Skills & Technologies
+Currently working on **enterprise BI migration and analytics** within an Agile Scrum environment.
+
+---
+
+## 🧰 Skills & Technologies
 
 ### 📊 BI & Visualization
 
-![Qlik Sense](https://img.shields.io/badge/Qlik%20Sense-009848?style=for-the-badge&logo=qlik&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+![Qlik Sense](https://img.shields.io/badge/Qlik%20Sense-009848?style=flat-square&logo=qlik&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-742774?style=flat-square&logo=microsoft&logoColor=white)
 
-- Qlik Scripting
-- Set Analysis
-- Dashboard Development
-- Visualization
-- Expressions
-- Variables
-- Section Access
-- Performance Optimization
-- KPI Reporting
-- Power Query
-- DAX
-- Measures
-- Relationships
-- Report & Dashboard Development
+**Qlik Sense** · Qlik Scripting · Set Analysis · Dashboard Development · Visualization · KPI Reporting · Section Access
 
-### ⚙️ Data Engineering & ETL
+**Power BI** · Power Query · DAX · Measures · Relationships · Report Development · Data Visualization
 
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+---
 
-- ETL
-- Data Extraction
-- Data Transformation
-- Data Loading
-- Data Integration
-- Data Engineering
-- Data Pipelines
-- Dataflows
-- Notebooks
-- Data Quality & Reconciliation
-- Data Validation
-- Incremental Load
+### ⚙️ Data Engineering
 
-### 🧩 Data Modelling & Data Warehousing
+**SQL** · ETL · Data Extraction · Data Transformation · Data Loading · Data Integration · Data Validation
 
-- Data Modelling
-- Semantic Modelling
-- Data Warehousing
-- Star Schema
-- Fact & Dimension Tables
-- Slowly Changing Dimensions (SCD)
-- Composite Keys
-- Joins
-- Aggregations
-- CTEs
-- Subqueries
-- CASE
-- GROUP BY
+**Microsoft Fabric** · OneLake · Lakehouse · Data Pipelines · Dataflows · Notebooks
 
-### 🏗️ Microsoft Fabric Platform
+---
 
-- OneLake
-- Lakehouse
-- Data Pipelines
-- Dataflows
-- Notebooks
-- Data Transformation
-- Data Integration
-- Data Engineering
-- Analytics
-- Semantic Modelling
-- 3-Layer Data Architecture
+### 🧩 Data Modelling
 
-### 🗄️ Databases & Querying
+Data Modelling · Semantic Modelling · Data Warehousing · Star Schema · Fact & Dimension Tables · SCD · Composite Keys
 
-- SQL
-- Joins
-- CTEs
-- Subqueries
-- CASE
-- Aggregations
-- GROUP BY
-- Data Transformation
-- Data Validation
+Joins · CTEs · Subqueries · CASE · Aggregations · GROUP BY · Data Quality & Reconciliation
 
-### 🔧 Developer / BI Tools
+---
 
-- Qlik Sense
-- Qlik Scripting
-- Power BI
-- Power Query
-- Microsoft Fabric
-- OneLake
-- Lakehouse
-- Data Pipelines
-- Dataflows
-- Notebooks
-- ETL
-- Semantic Modelling
+### 🔧 Tools & Practices
 
-### 🔗 Git & Collaboration
+Qlik Sense · Power BI · Microsoft Fabric · GitHub · Agile Scrum
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+---
 
-- GitHub
-- Agile Scrum
-
-## 🏢 Professional Experience
+## 🏢 Experience
 
 **BI Engineer — HSBC Software Development (India) Pvt. Ltd.**
 
-- Developed and maintained Qlik Sense dashboards and supported their migration to Power BI and Microsoft Fabric.
-- Analyzed Qlik dashboards, data models, datasets, measures, dimensions, and business logic for Fabric migration.
-- Built semantic data models and applied 3-layer data architecture concepts.
-- Translated Qlik dashboard logic and calculations into a Fabric-based semantic modelling approach.
-- Validated data and dashboard outputs for consistency between Qlik Sense and migrated Fabric solutions.
+Contributing to the migration of enterprise **Qlik Sense BI applications to Microsoft Fabric and Power BI**, including dashboard analysis, semantic modelling, data validation, and reporting.
 
-## 🏆 Achievements
+---
 
-- Improved dashboard reload performance by **40%** through optimized QVD architecture and Incremental Load implementation.
-- Automated enterprise reporting processes, reducing manual effort and improving reporting accuracy.
-- Successfully delivered enterprise BI solutions within Agile Scrum environments.
-- Received the **"Best Employee" Award during Q2**.
+## 📜 Certification
+
+**Microsoft Certified: DP-700 Fabric Data Engineer Associate**
+
+---
+
+## 🏆 Highlights
+
+- ⚡ Improved dashboard reload performance by **40%**
+- 🔄 Worked on **Qlik Sense → Microsoft Fabric & Power BI migration**
+- 📊 Built and validated **semantic data models**
+- 🤖 Automated enterprise reporting processes
+- 🏅 **Best Employee Award — Q2**
+
+---
 
 ## 🎓 Education
 
 **B.E. in Computer Engineering**  
 Savitribai Phule Pune University
 
-## 📜 Certification
+---
 
-**Microsoft Certified: DP-700 Fabric Data Engineer Associate – Microsoft**  
-August 2026
+### 📫 Connect
+
+[LinkedIn](#) · [GitHub](#)
